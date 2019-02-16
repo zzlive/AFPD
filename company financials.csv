@@ -1,0 +1,21 @@
+company,years,year_endings,current_ratio,quick_ratio,cash_ratio,gross_margin,operating_margin,pre_tex_margin,profit_margin,pre_tax_roe,after_tax_roe
+AMZN Company Financials,2017,12/31/2017,104%,76%,54%,37%,2%,2%,2%,14%,11%
+AMZN Company Financials,2016,12/31/2016,104%,78%,59%,35%,3%,3%,2%,20%,12%
+AMZN Company Financials,2015,12/31/2015,105%,75%,58%,33%,2%,1%,1%,12%,4%
+AMZN Company Financials,2014,12/31/2014,112%,82%,62%,29%,0%,0%,0%,1%,2%
+AAPL Company Financials,2018,9/29/2018,112%,109%,57%,38%,27%,27%,22%,68%,56%
+AAPL Company Financials,2017,9/30/2017,128%,123%,74%,38%,27%,28%,21%,48%,36%
+AAPL Company Financials,2016,9/24/2016,135%,133%,85%,39%,28%,28%,21%,48%,36%
+AAPL Company Financials,2015,9/26/2015,111%,108%,52%,40%,30%,31%,23%,61%,45%
+FB Company Financials,2017,12/31/2017,1292%,1292%,1109%,87%,50%,51%,39%,28%,21%
+FB Company Financials,2016,12/31/2016,1197%,1197%,1024%,86%,45%,45%,37%,21%,17%
+FB Company Financials,2015,12/31/2015,1125%,1125%,958%,84%,35%,35%,20%,14%,8%
+FB Company Financials,2014,12/31/2014,940%,940%,786%,83%,40%,39%,23%,14%,8%
+IBM Company Financials,2017,12/31/2017,133%,129%,34%,46%,15%,14%,7%,65%,33%
+IBM Company Financials,2016,12/31/2016,121%,117%,24%,48%,16%,15%,15%,68%,65%
+IBM Company Financials,2015,12/31/2015,124%,120%,24%,50%,19%,20%,16%,112%,92%
+IBM Company Financials,2014,12/31/2014,120%,114%,21%,50%,20%,22%,13%,168%,101%
+MSFT Company Financials,2018,6/30/2018,290%,286%,229%,65%,32%,33%,15%,44%,20%
+MSFT Company Financials,2017,6/30/2017,292%,288%,239%,65%,30%,31%,26%,34%,29%
+MSFT Company Financials,2016,6/30/2016,235%,231%,191%,64%,29%,28%,23%,36%,29%
+MSFT Company Financials,2015,6/30/2015,247%,241%,194%,65%,19%,20%,13%,23%,15%
